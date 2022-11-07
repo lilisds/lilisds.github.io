@@ -1,0 +1,25 @@
+#box1 {
+  height: 500px;
+  width: 100%;
+  background-image: url(../img/head1.jpg);
+  background-position: center;
+  background-size: cover;
+}
+#box2 {
+  height: 500px;
+  width: 100%;
+  background-image: url(../img/head2.jpg);
+  background-position: center;
+  background-size: cover;
+}
+#box3 {
+  height: 500px;
+  width: 100%;
+  background-image: url(../img/head3.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+section {
+  padding-top: 6rem;
+}
